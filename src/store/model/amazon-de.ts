@@ -476,6 +476,46 @@ export const AmazonDe: Store = {
       url: 'https://www.amazon.de/dp/B08HBJB7YD',
     },
     {
+      brand: 'asus',
+      cartUrl:
+        'https://www.amazon.de/gp/aws/cart/add.html?ASIN.1=B08BZPX64M&Quantity.1=1',
+      model: 'strix',
+      series: 'rx6700xt',
+      url: 'https://www.amazon.de/dp/B08BZPX64M',
+    },
+    {
+      brand: 'gigabyte',
+      cartUrl:
+        'https://www.amazon.de/gp/aws/cart/add.html?ASIN.1=B08Y746XN7&Quantity.1=1',
+      model: 'gaming oc',
+      series: 'rx6700xt',
+      url: 'https://www.amazon.de/dp/B08Y746XN7',
+    },
+    {
+      brand: 'gigabyte',
+      cartUrl:
+        'https://www.amazon.de/gp/aws/cart/add.html?ASIN.1=B08Y74T47X&Quantity.1=1',
+      model: 'aorus',
+      series: 'rx6700xt',
+      url: 'https://www.amazon.de/dp/B08Y74T47X',
+    },
+    {
+      brand: 'xfx',
+      cartUrl:
+        'https://www.amazon.de/gp/aws/cart/add.html?ASIN.1=B08YKH7VMN&Quantity.1=1',
+      model: 'qick',
+      series: 'rx6700xt',
+      url: 'https://www.amazon.de/dp/B08YKH7VMN',
+    },
+    {
+      brand: 'powercolor',
+      cartUrl:
+        'https://www.amazon.de/gp/aws/cart/add.html?ASIN.1=B08Y93KQR4&Quantity.1=1',
+      model: 'hellhound',
+      series: 'rx6700xt',
+      url: 'https://www.amazon.de/dp/B08Y93KQR4',
+    },
+    {
       brand: 'amd',
       cartUrl:
         'https://www.amazon.de/gp/aws/cart/add.html?ASIN.1=B08166SLDF&Quantity.1=1',

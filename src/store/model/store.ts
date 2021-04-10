@@ -113,6 +113,7 @@ export type Model =
   | 'suprim'
   | 'suprim x'
   | 'gaming'
+  | 'hellhound'
   | 'hurricane'
   | 'ichill x2'
   | 'ichill x3'
