@@ -36,6 +36,22 @@ export const AmazonDe: Store = {
       url: 'https://www.amazon.de/dp/B07PW9VBK5',
     },
     {
+      brand: 'msi',
+      cartUrl:
+        'https://www.amazon.de/gp/aws/cart/add.html?ASIN.1=B08WT47L8B&Quantity.1=1',
+      model: 'gaming trio',
+      series: '3060',
+      url: 'https://www.amazon.de/dp/B08WT47L8B',
+    },
+    {
+      brand: 'msi',
+      cartUrl:
+        'https://www.amazon.de/gp/aws/cart/add.html?ASIN.1=B08LNPPCWJ&Quantity.1=1',
+      model: 'gaming x trio',
+      series: '3070',
+      url: 'https://www.amazon.de/dp/B08LNPPCWJ',
+    },
+    {
       brand: 'asus',
       cartUrl:
         'https://www.amazon.de/gp/aws/cart/add.html?ASIN.1=B08HN7VVLJ&Quantity.1=1',
@@ -484,6 +500,14 @@ export const AmazonDe: Store = {
       url: 'https://www.amazon.de/dp/B08BZPX64M',
     },
     {
+      brand: 'asus',
+      cartUrl:
+        'https://www.amazon.de/gp/aws/cart/add.html?ASIN.1=B08YWRFSQB&Quantity.1=1',
+      model: 'dual',
+      series: 'rx6700xt',
+      url: 'https://www.amazon.de/dp/B08YWRFSQB',
+    },
+    {
       brand: 'gigabyte',
       cartUrl:
         'https://www.amazon.de/gp/aws/cart/add.html?ASIN.1=B08Y746XN7&Quantity.1=1',
@@ -514,6 +538,14 @@ export const AmazonDe: Store = {
       model: 'hellhound',
       series: 'rx6700xt',
       url: 'https://www.amazon.de/dp/B08Y93KQR4',
+    },
+    {
+      brand: 'sapphire',
+      cartUrl:
+        'https://www.amazon.de/gp/aws/cart/add.html?ASIN.1=B08Y835PXB&Quantity.1=1',
+      model: 'nitro+',
+      series: 'rx6700xt',
+      url: 'https://www.amazon.de/dp/B08Y835PXB',
     },
     {
       brand: 'amd',
