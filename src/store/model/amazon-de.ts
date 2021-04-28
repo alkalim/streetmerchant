@@ -44,6 +44,70 @@ export const AmazonDe: Store = {
       url: 'https://www.amazon.de/dp/B08WT47L8B',
     },
     {
+      brand: 'evga',
+      cartUrl:
+        'https://www.amazon.de/gp/aws/cart/add.html?ASIN.1=B08XQWR62V&Quantity.1=1',
+      model: 'xc gaming',
+      series: '3060',
+      url: 'https://www.amazon.de/dp/B08XQWR62V',
+    },
+    {
+      brand: 'zotac',
+      cartUrl:
+        'https://www.amazon.de/gp/aws/cart/add.html?ASIN.1=B08WRK84PS&Quantity.1=1',
+      model: 'twin edge oc',
+      series: '3060',
+      url: 'https://www.amazon.de/dp/B08WRK84PS',
+    },
+    {
+      brand: 'zotac',
+      cartUrl:
+        'https://www.amazon.de/gp/aws/cart/add.html?ASIN.1=B08WRV24YD&Quantity.1=1',
+      model: 'amp white',
+      series: '3060',
+      url: 'https://www.amazon.de/dp/B08WRV24YD',
+    },
+    {
+      brand: 'kfa2',
+      cartUrl:
+        'https://www.amazon.de/gp/aws/cart/add.html?ASIN.1=B08ZJPGJ1B&Quantity.1=1',
+      model: 'dual oc',
+      series: '3060',
+      url: 'https://www.amazon.de/dp/B08ZJPGJ1B',
+    },
+    {
+      brand: 'gainward',
+      cartUrl:
+        'https://www.amazon.de/gp/aws/cart/add.html?ASIN.1=B08X4Y5RWY&Quantity.1=1',
+      model: 'ghost oc',
+      series: '3060',
+      url: 'https://www.amazon.de/dp/B08X4Y5RWY',
+    },
+    {
+      brand: 'gigabyte',
+      cartUrl:
+        'https://www.amazon.de/gp/aws/cart/add.html?ASIN.1=B08WS5X6F5&Quantity.1=1',
+      model: 'aorus elite',
+      series: '3060',
+      url: 'https://www.amazon.de/dp/B08WS5X6F5',
+    },
+    {
+      brand: 'palit',
+      cartUrl:
+        'https://www.amazon.de/gp/aws/cart/add.html?ASIN.1=B08PFZ28CN&Quantity.1=1',
+      model: 'dual',
+      series: '3060ti',
+      url: 'https://www.amazon.de/dp/B08PFZ28CN',
+    },
+    {
+      brand: 'palit',
+      cartUrl:
+        'https://www.amazon.de/gp/aws/cart/add.html?ASIN.1=B08JCVWTQY&Quantity.1=1',
+      model: 'gaming pro',
+      series: '3080',
+      url: 'https://www.amazon.de/dp/B08JCVWTQY',
+    },
+    {
       brand: 'msi',
       cartUrl:
         'https://www.amazon.de/gp/aws/cart/add.html?ASIN.1=B08LNPPCWJ&Quantity.1=1',
@@ -402,6 +466,14 @@ export const AmazonDe: Store = {
       model: 'ventus 3x oc',
       series: '3070',
       url: 'https://www.amazon.de/dp/B08L6PCZTR',
+    },
+    {
+      brand: 'msi',
+      cartUrl:
+        'https://www.amazon.de/gp/aws/cart/add.html?ASIN.1=B08LNQTSCT&Quantity.1=1',
+      model: 'ventus 3x oc',
+      series: '3070',
+      url: 'https://www.amazon.de/dp/B08LNQTSCT',
     },
     {
       brand: 'msi',
