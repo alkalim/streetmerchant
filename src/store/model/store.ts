@@ -214,9 +214,10 @@ export type Link = {
 };
 
 export type CaptchaHandlerElements = {
-  image: string;
+  challenge: string;
   input: string;
   submit: string;
+  captureType?: string;
 };
 
 export type LabelQuery = Element[] | Element | string[];
