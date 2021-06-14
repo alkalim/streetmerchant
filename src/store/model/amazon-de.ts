@@ -489,6 +489,14 @@ export const AmazonDe: Store = {
       url: 'https://www.amazon.de/dp/B08KWN2LZG',
     },
     {
+      brand: 'msi',
+      cartUrl:
+        'https://www.amazon.de/gp/aws/cart/add.html?ASIN.1=B08P37HYZM&Quantity.1=1',
+      model: 'suprim x',
+      series: '3070',
+      url: 'https://www.amazon.de/dp/B08P37HYZM',
+    },
+    {
       brand: 'gigabyte',
       cartUrl:
         'https://www.amazon.de/gp/aws/cart/add.html?ASIN.1=B08M13DXSZ&Quantity.1=1',
@@ -601,6 +609,14 @@ export const AmazonDe: Store = {
       url: 'https://www.amazon.de/dp/B08Y74T47X',
     },
     {
+      brand: 'msi',
+      cartUrl:
+        'https://www.amazon.de/gp/aws/cart/add.html?ASIN.1=B08QCLRN7S&Quantity.1=1',
+      model: 'mech 2x',
+      series: 'rx6700xt',
+      url: 'https://www.amazon.de/dp/B08QCLRN7S',
+    },
+    {
       brand: 'xfx',
       cartUrl:
         'https://www.amazon.de/gp/aws/cart/add.html?ASIN.1=B08YKH7VMN&Quantity.1=1',
@@ -623,6 +639,14 @@ export const AmazonDe: Store = {
       model: 'nitro+',
       series: 'rx6700xt',
       url: 'https://www.amazon.de/dp/B08Y835PXB',
+    },
+    {
+      brand: 'msi',
+      cartUrl:
+        'https://www.amazon.de/gp/aws/cart/add.html?ASIN.1=B08QCLRN7S&Quantity.1=1',
+      model: 'gaming x trio',
+      series: 'rx6800xt',
+      url: 'https://www.amazon.de/dp/B08QCLRN7S',
     },
     {
       brand: 'amd',
