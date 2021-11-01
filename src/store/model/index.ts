@@ -63,7 +63,6 @@ import {CyberportAt} from './cyberport-at';
 import {Dcomp} from './dcomp';
 import {Drako} from './drako';
 import {DustinHomeNO} from './dustinhome-no';
-import {EbGames} from './ebgames';
 import {Ebuyer} from './ebuyer';
 import {Elcorteingles} from './elcorteingles';
 import {Eletronicamente} from './eletronicamente';
@@ -81,6 +80,7 @@ import {Galaxus} from './galaxus';
 import {Game} from './game';
 import {GameES} from './game-es';
 import {Gamestop} from './gamestop';
+import {GamestopCA} from './gamestop-ca';
 import {GamestopDE} from './gamestop-de';
 import {GamestopIE} from './gamestop-ie';
 import {GamestopIT} from './gamestop-it';
@@ -101,6 +101,7 @@ import {MemoryExpress} from './memoryexpress';
 import {MicroCenter} from './microcenter';
 import {MightyApe} from './mightyape';
 import {Mindfactory} from './mindfactory';
+import {Microsoft} from './microsoft';
 import {Msy} from './msy';
 import {Multicom} from './multicom';
 import {Mwave} from './mwave';
@@ -167,6 +168,7 @@ import {logger} from '../../logger';
 import chalk from 'chalk';
 import {UltimaInformatica} from './utlimainformatica';
 import {XtremMedia} from './xtremmedia';
+import {MicrosoftCA} from './microsoft-ca';
 
 export const storeList = new Map([
   [AComPC.name, AComPC],
@@ -230,7 +232,6 @@ export const storeList = new Map([
   [Dcomp.name, Dcomp],
   [Drako.name, Drako],
   [DustinHomeNO.name, DustinHomeNO],
-  [EbGames.name, EbGames],
   [Ebuyer.name, Ebuyer],
   [Elcorteingles.name, Elcorteingles],
   [Eletronicamente.name, Eletronicamente],
@@ -248,6 +249,7 @@ export const storeList = new Map([
   [Game.name, Game],
   [GameES.name, GameES],
   [Gamestop.name, Gamestop],
+  [GamestopCA.name, GamestopCA],
   [GamestopDE.name, GamestopDE],
   [GamestopIE.name, GamestopIE],
   [GamestopIT.name, GamestopIT],
@@ -264,11 +266,13 @@ export const storeList = new Map([
   [MediamarktAt.name, MediamarktAt],
   [Medimax.name, Medimax],
   [Megekko.name, Megekko],
+  [Microsoft.name, Microsoft],
   [Ldlc.name, Ldlc],
   [LdlcEs.name, LdlcEs],
   [Materiel.name, Materiel],
   [MemoryExpress.name, MemoryExpress],
   [MicroCenter.name, MicroCenter],
+  [MicrosoftCA.name, MicrosoftCA],
   [MightyApe.name, MightyApe],
   [Mindfactory.name, Mindfactory],
   [Msy.name, Msy],
