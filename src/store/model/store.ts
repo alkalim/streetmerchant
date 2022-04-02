@@ -40,6 +40,7 @@ export type Brand =
 export type Series =
   | 'test:series'
   | 'captcha-deterrent'
+  | '3050'
   | '3060'
   | '3060ti'
   | '3070'
@@ -167,6 +168,7 @@ export type Model =
   | 'phantom gs'
   | 'phoenix gs oc'
   | 'phoenix gs'
+  | 'phoenix 8G (LHR)'
   | 'phoenix'
   | 'ps5 console'
   | 'ps5 digital'
@@ -207,6 +209,7 @@ export type Model =
   | 'ventus 2x'
   | 'ventus 3x oc'
   | 'ventus 3x'
+  | 'ventus 2X (LHR)'
   | 'vision oc'
   | 'vision'
   | 'x3'
